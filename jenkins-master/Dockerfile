@@ -1,5 +1,5 @@
 FROM jenkins:latest
-MAINTAINER bchetty
+MAINTAINER Babji, Chetty<dev.b.chetty@gmail.com>
 
 USER root
 RUN mkdir /var/log/jenkins
